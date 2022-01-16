@@ -1,8 +1,8 @@
 # typescript
 
----
-
 [TypeScript 공식 홈페이지](https://www.typescriptlang.org/)
+
+---
 
 I learn TypeScript for <u>React</u>, <u>Node.js</u> and <u>NestJs</u>
 
@@ -12,7 +12,7 @@ I learn TypeScript for <u>React</u>, <u>Node.js</u> and <u>NestJs</u>
 
 <pre><code>npm install typescript</code></pre>
 
-`npx tsc --init`
+<pre><code>npx tsc --init</code></pre>
 
 ### Run
 
