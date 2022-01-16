@@ -12,6 +12,8 @@ I learn TypeScript for <u>React</u>, <u>Node.js</u> and <u>NestJs</u>
 
 <pre><code>npm install typescript</code></pre>
 
+`npx tsc --init`
+
 ### Run
 
 <pre><code>npx tsc</code></pre>
