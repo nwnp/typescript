@@ -2,22 +2,22 @@
 
 ---
 
-[GOOGLE](https://www.typescriptlang.org/)
+[TypeScript 공식 홈페이지](https://www.typescriptlang.org/)
 
-I learn TypeScript for <u>React</u>React, <u>Node.js</u> and <u>NestJs</u>
+I learn TypeScript for <u>React</u>, <u>Node.js</u> and <u>NestJs</u>
 
 ---
 
 ### Installing
 
-<pre><code>{
+<pre><code>
   npm install typescript
-}</code></pre>
+</code></pre>
 
 ### Run
 
-<pre><code>{
+<pre><code>
   npx tsc
-}</code></pre>
+</code></pre>
 
 ---
