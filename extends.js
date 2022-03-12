@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const pp = {
+var pp = {
     name: "a",
     age: 23,
     price: 2000,

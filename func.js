@@ -11,10 +11,10 @@ function f2() {
     throw new Error("some error");
 }
 // object type
-let v;
+var v;
 v = { name: "jin" };
 console.log(v);
-let anyValue = [];
+var anyValue = [];
 anyValue.push(123);
 anyValue.push("jin");
 console.log(anyValue);
